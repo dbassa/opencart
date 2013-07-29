@@ -2,7 +2,7 @@
 ///       OpenCart V1.5.x     ///
 ///    Install Instructions   ///
 ///  http://www.opencart.com  ///
-/////////////////////////////////
+//////////////////////////////////
 
 
 NOTE: THIS IS FOR NEW INSTALL ONLY!
